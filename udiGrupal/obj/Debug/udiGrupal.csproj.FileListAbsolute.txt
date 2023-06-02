@@ -1,0 +1,13 @@
+C:\Users\SUPCOMERCIO\AppData\Local\Temporary Projects\udiGrupal\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\SUPCOMERCIO\AppData\Local\Temporary Projects\udiGrupal\obj\Debug\udiGrupal.FormIngreso.resources
+C:\Users\SUPCOMERCIO\AppData\Local\Temporary Projects\udiGrupal\obj\Debug\udiGrupal.Properties.Resources.resources
+C:\Users\SUPCOMERCIO\AppData\Local\Temporary Projects\udiGrupal\obj\Debug\udiGrupal.csproj.GenerateResource.Cache
+C:\Users\SUPCOMERCIO\AppData\Local\Temporary Projects\udiGrupal\bin\Debug\udiGrupal.exe
+C:\Users\SUPCOMERCIO\AppData\Local\Temporary Projects\udiGrupal\bin\Debug\udiGrupal.pdb
+C:\Users\SUPCOMERCIO\AppData\Local\Temporary Projects\udiGrupal\obj\Debug\udiGrupal.exe
+C:\Users\SUPCOMERCIO\AppData\Local\Temporary Projects\udiGrupal\obj\Debug\udiGrupal.pdb
+C:\Users\SUPCOMERCIO\AppData\Local\Temporary Projects\udiGrupal\obj\Debug\udiGrupal.Generico.resources
+C:\Users\SUPCOMERCIO\AppData\Local\Temporary Projects\udiGrupal\obj\Debug\udiGrupal.Menu.resources
+C:\Users\SUPCOMERCIO\AppData\Local\Temporary Projects\udiGrupal\obj\Debug\udiGrupal.Productos.resources
+C:\Users\SUPCOMERCIO\Desktop\Proyectos B4A\C# ATC\00 - Ejercicios Interfaz Grafica\udiGrupal\udiGrupal\obj\Debug\udiGrupal.exe
+C:\Users\SUPCOMERCIO\Desktop\Proyectos B4A\C# ATC\00 - Ejercicios Interfaz Grafica\udiGrupal\udiGrupal\obj\Debug\udiGrupal.pdb
