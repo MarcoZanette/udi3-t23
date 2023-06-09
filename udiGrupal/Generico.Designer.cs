@@ -97,8 +97,8 @@
 
         private System.Windows.Forms.Label label1;
         private System.Windows.Forms.Label label2;
-        private System.Windows.Forms.TextBox TxtIdGenerico;
         private System.Windows.Forms.TextBox TxtNombreGenerico;
         private System.Windows.Forms.Button BtnCargaGenerico;
+        protected System.Windows.Forms.TextBox TxtIdGenerico;
     }
 }
