@@ -29,7 +29,7 @@
         private void InitializeComponent()
         {
             this.label3 = new System.Windows.Forms.Label();
-            this.textBox1 = new System.Windows.Forms.TextBox();
+            this.Textbox_Pventa = new System.Windows.Forms.TextBox();
             this.SuspendLayout();
             // 
             // label3
@@ -41,12 +41,12 @@
             this.label3.TabIndex = 5;
             this.label3.Text = "Precio-Venta";
             // 
-            // textBox1
+            // Textbox_Pventa
             // 
-            this.textBox1.Location = new System.Drawing.Point(81, 91);
-            this.textBox1.Name = "textBox1";
-            this.textBox1.Size = new System.Drawing.Size(100, 20);
-            this.textBox1.TabIndex = 6;
+            this.Textbox_Pventa.Location = new System.Drawing.Point(81, 91);
+            this.Textbox_Pventa.Name = "Textbox_Pventa";
+            this.Textbox_Pventa.Size = new System.Drawing.Size(100, 20);
+            this.Textbox_Pventa.TabIndex = 6;
             // 
             // Productos
             // 
@@ -54,11 +54,11 @@
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(292, 269);
             this.Controls.Add(this.label3);
-            this.Controls.Add(this.textBox1);
+            this.Controls.Add(this.Textbox_Pventa);
             this.Name = "Productos";
             this.Text = "Productos";
             this.Load += new System.EventHandler(this.Productos_Load);
-            this.Controls.SetChildIndex(this.textBox1, 0);
+            this.Controls.SetChildIndex(this.Textbox_Pventa, 0);
             this.Controls.SetChildIndex(this.label3, 0);
             this.ResumeLayout(false);
             this.PerformLayout();
@@ -68,6 +68,6 @@
         #endregion
 
         private System.Windows.Forms.Label label3;
-        private System.Windows.Forms.TextBox textBox1;
+        private System.Windows.Forms.TextBox Textbox_Pventa;
     }
 }

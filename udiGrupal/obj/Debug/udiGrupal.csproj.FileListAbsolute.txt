@@ -11,3 +11,5 @@ C:\Users\SUPCOMERCIO\AppData\Local\Temporary Projects\udiGrupal\obj\Debug\udiGru
 C:\Users\SUPCOMERCIO\AppData\Local\Temporary Projects\udiGrupal\obj\Debug\udiGrupal.Productos.resources
 C:\Users\SUPCOMERCIO\Desktop\Proyectos B4A\C# ATC\00 - Ejercicios Interfaz Grafica\udiGrupal\udiGrupal\obj\Debug\udiGrupal.exe
 C:\Users\SUPCOMERCIO\Desktop\Proyectos B4A\C# ATC\00 - Ejercicios Interfaz Grafica\udiGrupal\udiGrupal\obj\Debug\udiGrupal.pdb
+C:\Users\Felipe\Desktop\udi3-t23-main\udiGrupal\obj\Debug\udiGrupal.exe
+C:\Users\Felipe\Desktop\udi3-t23-main\udiGrupal\obj\Debug\udiGrupal.pdb

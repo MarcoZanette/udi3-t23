@@ -66,6 +66,7 @@
             this.TxtNombreGenerico.Name = "TxtNombreGenerico";
             this.TxtNombreGenerico.Size = new System.Drawing.Size(100, 20);
             this.TxtNombreGenerico.TabIndex = 3;
+            this.TxtNombreGenerico.TextChanged += new System.EventHandler(this.TxtNombreGenerico_TextChanged);
             // 
             // BtnCargaGenerico
             // 
@@ -88,6 +89,7 @@
             this.Controls.Add(this.label1);
             this.Name = "Generico";
             this.Text = "Generico";
+            this.Load += new System.EventHandler(this.Generico_Load);
             this.ResumeLayout(false);
             this.PerformLayout();
 
@@ -97,8 +99,8 @@
 
         private System.Windows.Forms.Label label1;
         private System.Windows.Forms.Label label2;
-        private System.Windows.Forms.TextBox TxtIdGenerico;
-        private System.Windows.Forms.TextBox TxtNombreGenerico;
         private System.Windows.Forms.Button BtnCargaGenerico;
+        protected System.Windows.Forms.TextBox TxtIdGenerico;
+        protected System.Windows.Forms.TextBox TxtNombreGenerico;
     }
 }

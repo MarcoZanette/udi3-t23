@@ -9,19 +9,14 @@ using System.Windows.Forms;
 
 namespace udiGrupal
 {
-    public partial class Generico : Form
+    public partial class Proveedores : Generico
     {
-        public Generico()
+        public Proveedores()
         {
             InitializeComponent();
         }
 
-        private void Generico_Load(object sender, EventArgs e)
-        {
-
-        }
-
-        protected internal void TxtNombreGenerico_TextChanged(object sender, EventArgs e)
+        private void Proveedores_Load(object sender, EventArgs e)
         {
 
         }

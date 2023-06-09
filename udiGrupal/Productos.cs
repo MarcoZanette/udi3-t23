@@ -11,14 +11,24 @@ namespace udiGrupal
 {
     public partial class Productos : Generico
     {
+        private string NombreProducto;
+        private double Precio_venta;
+
+
         public Productos()
         {
-            InitializeComponent();
+                InitializeComponent();
         }
 
         private void Productos_Load(object sender, EventArgs e)
         {
 
+            NombreProducto = TxtNombreGenerico.Text;
+            Precio_venta = Textbox_Pventa.Text;
+
+
         }
+
+        
     }
 }
