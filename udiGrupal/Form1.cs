@@ -25,7 +25,18 @@ namespace udiGrupal
 
         private void BtnIngresoLogin_Click(object sender, EventArgs e)
         {
+            string usuarioAcceso = "admin";
+            string claveAcceso = "123321";
 
+            if(TxtUserLogin.Text == usuarioAcceso && TxtContraLogin.Text == claveAcceso)
+            {
+                Menu InstanciaMenu = new Menu();
+                InstanciaMenu.Show();
+            }
+            else
+            {
+                MessageBox.Show("Usuario o Contraseña incorrecta");
+            }
         }
     }
 }
