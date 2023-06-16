@@ -75,6 +75,7 @@
             this.BtnCargaGenerico.TabIndex = 4;
             this.BtnCargaGenerico.Text = "Guardar";
             this.BtnCargaGenerico.UseVisualStyleBackColor = true;
+            this.BtnCargaGenerico.Click += new System.EventHandler(this.BtnCargaGenerico_Click);
             // 
             // Generico
             // 
@@ -97,8 +98,8 @@
 
         private System.Windows.Forms.Label label1;
         private System.Windows.Forms.Label label2;
-        private System.Windows.Forms.TextBox TxtNombreGenerico;
-        private System.Windows.Forms.Button BtnCargaGenerico;
         protected System.Windows.Forms.TextBox TxtIdGenerico;
+        protected System.Windows.Forms.Button BtnCargaGenerico;
+        protected System.Windows.Forms.TextBox TxtNombreGenerico;
     }
 }

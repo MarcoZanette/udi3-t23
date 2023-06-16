@@ -34,6 +34,10 @@
             this.txtTelefonoCliente = new System.Windows.Forms.TextBox();
             this.SuspendLayout();
             // 
+            // BtnCargaGenerico
+            // 
+            this.BtnCargaGenerico.Click += new System.EventHandler(this.BtnCargaGenerico_Click);
+            // 
             // label3
             // 
             this.label3.AutoSize = true;
@@ -77,6 +81,7 @@
             this.Controls.Add(this.txtTelefonoCliente);
             this.Name = "Clientes";
             this.Text = "Clientes";
+            this.Controls.SetChildIndex(this.BtnCargaGenerico, 0);
             this.Controls.SetChildIndex(this.txtTelefonoCliente, 0);
             this.Controls.SetChildIndex(this.txtDireccionCliente, 0);
             this.Controls.SetChildIndex(this.label4, 0);

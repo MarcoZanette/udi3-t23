@@ -23,3 +23,4 @@ C:\Users\SUPCOMERCIO\Desktop\T23\udiGrupal\udiGrupal\obj\Debug\udiGrupal.Product
 C:\Users\SUPCOMERCIO\Desktop\T23\udiGrupal\udiGrupal\obj\Debug\udiGrupal.Properties.Resources.resources
 C:\Users\SUPCOMERCIO\Desktop\T23\udiGrupal\udiGrupal\obj\Debug\udiGrupal.csproj.GenerateResource.Cache
 C:\Users\SUPCOMERCIO\Desktop\T23\udiGrupal\udiGrupal\obj\Debug\udiGrupal.Proveedores.resources
+C:\Users\SUPCOMERCIO\Desktop\T23\udiGrupal\udiGrupal\obj\Debug\udiGrupal.Clientes.resources

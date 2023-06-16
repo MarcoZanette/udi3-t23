@@ -15,5 +15,10 @@ namespace udiGrupal
         {
             InitializeComponent();
         }
+
+        private void BtnCargaGenerico_Click(object sender, EventArgs e)
+        {
+            
+        }
     }
 }

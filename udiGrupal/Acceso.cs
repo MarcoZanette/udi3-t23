@@ -14,11 +14,11 @@ namespace udiGrupal
         private string stringConexion;
 
 
-        public Acceso(string stringconexion)
+        public Acceso()
         {
-            conexion = new OleDbConnection(stringconexion);
+            stringConexion = "provider=Microsoft.Ace.Oledb.12.0;" + "data source=" + Environment.CurrentDirectory + @"\udiGrupal.accdb";
+            conexion = new OleDbConnection(stringConexion);
             comando = new OleDbCommand();
-            stringConexion = stringconexion;
         }
 
         public void Conectar(){

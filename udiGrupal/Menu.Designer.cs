@@ -61,6 +61,7 @@
             this.BtnClienteMenu.TabIndex = 2;
             this.BtnClienteMenu.Text = "Clientes";
             this.BtnClienteMenu.UseVisualStyleBackColor = true;
+            this.BtnClienteMenu.Click += new System.EventHandler(this.BtnClienteMenu_Click);
             // 
             // BtnConfiguracionMenu
             // 

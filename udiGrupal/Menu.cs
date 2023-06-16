@@ -15,5 +15,11 @@ namespace udiGrupal
         {
             InitializeComponent();
         }
+
+        private void BtnClienteMenu_Click(object sender, EventArgs e)
+        {
+            Clientes c1 = new Clientes();
+            c1.Show();
+        }
     }
 }
