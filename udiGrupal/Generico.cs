@@ -20,5 +20,10 @@ namespace udiGrupal
         {
             
         }
+
+        private void Generico_Load(object sender, EventArgs e)
+        {
+
+        }
     }
 }

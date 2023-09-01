@@ -21,5 +21,28 @@ namespace udiGrupal
             Clientes c1 = new Clientes();
             c1.Show();
         }
+
+        private void BtnSalirMenu_Click(object sender, EventArgs e)
+        {
+            Application.Exit();
+        }
+
+        private void BtnProductosMenu_Click(object sender, EventArgs e)
+        {
+            Productos p = new Productos();
+            p.Show();
+        }
+
+        private void BtnConfiguracionMenu_Click(object sender, EventArgs e)
+        {
+            Confirguracion Config = new Confirguracion();
+            Config.Show();
+        }
+
+        private void BtnProveedoresMenu_Click(object sender, EventArgs e)
+        {
+            Proveedores Prov = new Proveedores();
+            Prov.Show();
+        }
     }
 }

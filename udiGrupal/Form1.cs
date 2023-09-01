@@ -11,9 +11,14 @@ namespace udiGrupal
 {
     public partial class FormIngreso : Form
     {
+        Acceso sql1;
+
         public FormIngreso()
         {
             InitializeComponent();
+
+            sql1 = new Acceso();
+
             TxtContraLogin.UseSystemPasswordChar = false;
             TxtContraLogin.PasswordChar = '☺';
         }
@@ -26,7 +31,17 @@ namespace udiGrupal
         private void BtnIngresoLogin_Click(object sender, EventArgs e)
         {
             string usuarioAcceso = "admin";
-            string claveAcceso = "123321";
+            string consulta = "SELECT Contra FROM Usuario WHERE Nombre = '"+TxtUserLogin.Text+"'";
+            DataTable tabla = sql1.ConsultaLectura(consulta);
+
+            string claveAcceso;
+            try
+            {
+                 claveAcceso = tabla.Rows[0].ItemArray[0].ToString();
+            }
+            catch (Exception ex) {
+                claveAcceso = "";
+            }
 
             if(TxtUserLogin.Text == usuarioAcceso && TxtContraLogin.Text == claveAcceso)
             {

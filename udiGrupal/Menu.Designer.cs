@@ -43,6 +43,7 @@
             this.BtnProductosMenu.TabIndex = 0;
             this.BtnProductosMenu.Text = "Producto";
             this.BtnProductosMenu.UseVisualStyleBackColor = true;
+            this.BtnProductosMenu.Click += new System.EventHandler(this.BtnProductosMenu_Click);
             // 
             // BtnProveedoresMenu
             // 
@@ -52,6 +53,7 @@
             this.BtnProveedoresMenu.TabIndex = 1;
             this.BtnProveedoresMenu.Text = "Proveedores";
             this.BtnProveedoresMenu.UseVisualStyleBackColor = true;
+            this.BtnProveedoresMenu.Click += new System.EventHandler(this.BtnProveedoresMenu_Click);
             // 
             // BtnClienteMenu
             // 
@@ -71,6 +73,7 @@
             this.BtnConfiguracionMenu.TabIndex = 3;
             this.BtnConfiguracionMenu.Text = "Configuracion";
             this.BtnConfiguracionMenu.UseVisualStyleBackColor = true;
+            this.BtnConfiguracionMenu.Click += new System.EventHandler(this.BtnConfiguracionMenu_Click);
             // 
             // BtnSalirMenu
             // 
@@ -80,6 +83,7 @@
             this.BtnSalirMenu.TabIndex = 4;
             this.BtnSalirMenu.Text = "Salir";
             this.BtnSalirMenu.UseVisualStyleBackColor = true;
+            this.BtnSalirMenu.Click += new System.EventHandler(this.BtnSalirMenu_Click);
             // 
             // Menu
             // 

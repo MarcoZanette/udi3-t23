@@ -89,6 +89,7 @@
             this.Controls.Add(this.label1);
             this.Name = "Generico";
             this.Text = "Generico";
+            this.Load += new System.EventHandler(this.Generico_Load);
             this.ResumeLayout(false);
             this.PerformLayout();
 
@@ -96,10 +97,10 @@
 
         #endregion
 
-        private System.Windows.Forms.Label label1;
         private System.Windows.Forms.Label label2;
-        protected System.Windows.Forms.TextBox TxtIdGenerico;
         protected System.Windows.Forms.Button BtnCargaGenerico;
-        protected System.Windows.Forms.TextBox TxtNombreGenerico;
+        public System.Windows.Forms.TextBox TxtIdGenerico;
+        public System.Windows.Forms.TextBox TxtNombreGenerico;
+        protected System.Windows.Forms.Label label1;
     }
 }

@@ -1,0 +1,10 @@
+C:\Users\SUPCOMERCIO\Desktop\T23\udiGrupal\udiGrupal\obj\Release\ResolveAssemblyReference.cache
+C:\Users\SUPCOMERCIO\Desktop\T23\udiGrupal\udiGrupal\obj\Release\udiGrupal.Clientes.resources
+C:\Users\SUPCOMERCIO\Desktop\T23\udiGrupal\udiGrupal\obj\Release\udiGrupal.Confirguracion.resources
+C:\Users\SUPCOMERCIO\Desktop\T23\udiGrupal\udiGrupal\obj\Release\udiGrupal.FormIngreso.resources
+C:\Users\SUPCOMERCIO\Desktop\T23\udiGrupal\udiGrupal\obj\Release\udiGrupal.Generico.resources
+C:\Users\SUPCOMERCIO\Desktop\T23\udiGrupal\udiGrupal\obj\Release\udiGrupal.Menu.resources
+C:\Users\SUPCOMERCIO\Desktop\T23\udiGrupal\udiGrupal\obj\Release\udiGrupal.Productos.resources
+C:\Users\SUPCOMERCIO\Desktop\T23\udiGrupal\udiGrupal\obj\Release\udiGrupal.Properties.Resources.resources
+C:\Users\SUPCOMERCIO\Desktop\T23\udiGrupal\udiGrupal\obj\Release\udiGrupal.Proveedores.resources
+C:\Users\SUPCOMERCIO\Desktop\T23\udiGrupal\udiGrupal\obj\Release\udiGrupal.csproj.GenerateResource.Cache
